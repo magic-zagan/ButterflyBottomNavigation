@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButterflyNavigation</string>
+
+    <string name="navigation_button_name_note">便签</string>
+    <string name="navigation_button_name_yesterday">昨天</string>
+    <string name="navigation_button_name_today">今天</string>
+    <string name="navigation_button_name_tomorrow">明天</string>
+    <string name="navigation_button_name_overview">总揽</string>
+</resources>
